@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optimize-Income-Project", "Chiffre-Affaire-Project\Optimize-Income-Project.csproj", "{682123EE-805F-4865-9BCC-1F63F2AC0707}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optimize-Income-Tests", "Chiffre-Affaire-Tests\Optimize-Income-Tests.csproj", "{011F0005-8293-493E-8A3E-792C8C3FA8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{682123EE-805F-4865-9BCC-1F63F2AC0707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682123EE-805F-4865-9BCC-1F63F2AC0707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682123EE-805F-4865-9BCC-1F63F2AC0707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682123EE-805F-4865-9BCC-1F63F2AC0707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011F0005-8293-493E-8A3E-792C8C3FA8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011F0005-8293-493E-8A3E-792C8C3FA8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011F0005-8293-493E-8A3E-792C8C3FA8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011F0005-8293-493E-8A3E-792C8C3FA8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71F16FE8-ED06-4C5F-9381-E4B402C4962D}
+	EndGlobalSection
+EndGlobal
